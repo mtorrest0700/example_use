@@ -1,5 +1,6 @@
 #encoding:utf-8
 #repositorio mitchel
+#QUE TRANZA PITCHEL
 import socket  
   
 s = socket.socket()   
